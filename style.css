@@ -35,6 +35,11 @@ body{
     padding-right: 15px;
     padding-left: 15px;
 }
+img{
+    width: 200px;
+    height: 150px;
+    margin: 15px;
+}
 .footer{
     border-top: 2px;
     border-style: solid;
