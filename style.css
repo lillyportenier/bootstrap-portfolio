@@ -21,7 +21,6 @@ body{
     font-size: 32px;
     padding-left: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    margin-bottom: solid 2px #dddd!Important;
 }
 .container{
     border: 1px #dddd solid;
